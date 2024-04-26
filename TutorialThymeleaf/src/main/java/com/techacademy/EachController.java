@@ -22,4 +22,4 @@ public class EachController {
         // each.htmlに画面遷移
         return "each";
     }
-}
+} 
